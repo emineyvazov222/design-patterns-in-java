@@ -1,4 +1,4 @@
-package az.spring.travel.singleton;
+package az.creational.patterns.singleton;
 
 public class Main {
     public static void main(String[] args) {
