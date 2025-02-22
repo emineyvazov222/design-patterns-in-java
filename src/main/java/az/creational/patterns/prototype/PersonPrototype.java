@@ -1,4 +1,4 @@
-package az.spring.travel.prototype;
+package az.creational.patterns.prototype;
 
 public class PersonPrototype implements Cloneable {
 

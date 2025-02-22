@@ -1,4 +1,4 @@
-package az.spring.travel.builder;
+package az.creational.patterns.builder;
 
 public class Car {
 

@@ -1,4 +1,4 @@
-package az.spring.travel.factory;
+package az.creational.patterns.factory;
 
 public class Main {
     public static void main(String[] args) {
